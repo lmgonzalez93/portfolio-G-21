@@ -1,0 +1,20 @@
+body {
+    height: 100svh;
+    width: 100vw;
+}
+
+main {
+    height: calc(7.5/12 * 100%);
+    /* background-color:var(--color-ter); */
+    color: var(--color-pri-inv);
+    font-size: var(--font-size-gral);
+}
+
+#portada {
+    text-align: right;
+}
+
+main p {
+    text-align: center;
+ 
+}
